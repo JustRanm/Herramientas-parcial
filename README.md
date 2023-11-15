@@ -5,7 +5,9 @@
 
 ![image](https://github.com/JustRanm/Herramientas-parcial/assets/147516960/42ac91ba-7345-42f1-acde-e7737749aeb0)
 
+## FUNCIONAMIENTO DEL CÓDIGO
 
+Este programa se encarga de recibir una  palabra o letra, mostrar esta misma en Código ASCII y la equivalencia del Código ASCII en binarios, para ello se dieron dos pestañas, en la primera se Encuentra “Operetors” en la cual se encuentran las funciones para sacar el Código ASCII de cada letra como su numero binario y abra otra función que juntara las demás para dar la impresión del mensaje correspondiente, la otra pestaña “main” se encuentra el menú, a continuación se explicara cada función detalladamente.
 
-
+![Alt text](image-2.png)
 
