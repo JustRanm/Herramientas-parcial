@@ -39,7 +39,19 @@ Y ahora podemos ver como escribe la posicion de la b en el código ASCII, difere
 
 Por ultimo, si deseamos salir solo demos de apretar el número 3 y enter y automaticamente se cerrará 
 
+## CLONACION DE REPOSITORIO
 
+Para cualquier caso posible, ya sea un problema interno o externo debemos de tener algun tipo de back up para evitar perder todas las cosas hechas, por eso debemos de hacer una clonacion para tener un refuerzo para cualquier caso.
 
+Para hacer esto nos dijirimos al menú principal del repositorio que queramos clonar.
 
+![image](https://github.com/JustRanm/Herramientas-parcial/assets/147520340/c76e1769-9d91-4a80-b1bd-a68ddadba7e5)
+
+apretanmos el boton "code" de color verde. despues de eso apretamos la opcion de HTTPS.
+
+![image](https://github.com/JustRanm/Herramientas-parcial/assets/147520340/96989df9-dc04-43b6-a06f-987f9aaf40b8)
+
+Aca tenemos dos opciones, la primera es abrir el archivo clonado con un escritorio de GitHub, y la otra es descargarlo via ZIP, nosotros preferimos esta opcion, pues es mas seguro tenerlo descargado en un computador personal, y a partir de ahi ya se descarga automaticamente y se volverá un archivo que puedes abrir siempre que quieras.
+
+![image](https://github.com/JustRanm/Herramientas-parcial/assets/147520340/0b09f892-a82c-40d0-a87c-fad9870a1734)
 
