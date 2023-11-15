@@ -35,7 +35,9 @@ Así vemos como muestra la posicion de la letra B en el código ASCII y su escri
 
 ![image](https://github.com/JustRanm/Herramientas-parcial/assets/147520340/1c2bcdb2-1a34-4751-93e7-bf75199fca4c)
 
-Y ahora podemos ver como escribe la posicion de la b en el código ASCII 
+Y ahora podemos ver como escribe la posicion de la b en el código ASCII, diferenciandose de la B por un cambio de bit.
+
+Por ultimo, si deseamos salir solo demos de apretar el número 3 y enter y automaticamente se cerrará 
 
 
 
